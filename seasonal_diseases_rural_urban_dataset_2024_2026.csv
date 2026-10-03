@@ -1,0 +1,73 @@
+﻿Record_ID,Year,Month,Season,Area_Type,Region,Temperature_C,Rainfall_mm,Humidity_Percent,Water_Quality_Index,Mosquito_Index,Population_Density,Sanitation_Score,Disease,Cases,Hospital_Visits,Previous_Month_Cases,Risk_Score,Disease_Risk
+1,2024,January,Winter,Rural,Satara,19,23,58,61,22,478,58,Viral Fever,47,22,34,29.9,Low
+2,2024,January,Winter,Urban,Thane,27,19,50,75,32,14515,77,Influenza,138,81,110,27.0,Low
+3,2024,February,Winter,Rural,Nashik,21,22,63,68,25,534,59,Common Cold,79,45,65,30.4,Low
+4,2024,February,Winter,Urban,Aurangabad,28,8,75,58,16,23054,72,Common Cold,133,72,122,27.8,Low
+5,2024,March,Summer,Rural,Ahmednagar,38,6,39,60,21,483,68,Typhoid,68,36,63,24.3,Low
+6,2024,March,Summer,Urban,Aurangabad,31,11,57,76,26,16748,77,Typhoid,154,99,137,25.3,Low
+7,2024,April,Summer,Rural,Sangli,31,14,59,75,28,820,64,Typhoid,51,23,41,28.6,Low
+8,2024,April,Summer,Urban,Navi Mumbai,30,6,55,75,26,24358,67,Typhoid,116,57,111,26.4,Low
+9,2024,May,Summer,Rural,Kolhapur,40,18,62,78,48,847,75,Typhoid,65,39,63,34.2,Low
+10,2024,May,Summer,Urban,Pune,31,20,45,57,45,21833,74,Diarrhea,128,96,113,34.0,Low
+11,2024,June,Monsoon,Rural,Nashik,30,148,89,73,72,598,57,Malaria,153,69,146,57.5,High
+12,2024,June,Monsoon,Urban,Navi Mumbai,29,181,88,75,61,17779,81,Malaria,198,111,150,51.5,Medium
+13,2024,July,Monsoon,Rural,Nashik,29,255,87,74,56,364,73,Dengue,108,77,111,55.2,High
+14,2024,July,Monsoon,Urban,Pune,30,338,74,76,89,12120,59,Malaria,258,157,235,71.3,High
+15,2024,August,Monsoon,Rural,Sangli,29,192,81,88,80,632,78,Dengue,163,84,133,56.2,High
+16,2024,August,Monsoon,Urban,Thane,29,202,72,57,59,9929,62,Chikungunya,85,51,68,55.1,High
+17,2024,September,Monsoon,Rural,Palghar,26,157,90,81,85,498,80,Dengue,89,58,73,58.1,High
+18,2024,September,Monsoon,Urban,Solapur City,28,117,75,65,58,21193,78,Malaria,93,47,80,46.8,Medium
+19,2024,October,Monsoon,Rural,Raigad,26,232,86,61,70,327,78,Dengue,55,40,55,59.8,High
+20,2024,October,Monsoon,Urban,Nagpur,28,338,87,60,68,21141,56,Dengue,218,115,212,68.8,High
+21,2024,November,Winter,Rural,Palghar,23,13,72,64,38,819,81,Influenza,61,45,55,33.1,Low
+22,2024,November,Winter,Urban,Mumbai,30,10,51,71,16,27142,70,Common Cold,130,96,95,22.7,Low
+23,2024,December,Winter,Rural,Solapur,20,19,52,62,36,490,75,Viral Fever,78,36,57,30.9,Low
+24,2024,December,Winter,Urban,Aurangabad,23,6,71,63,37,18295,62,Common Cold,138,89,119,35.2,Medium
+25,2025,January,Winter,Rural,Satara,19,14,69,68,33,352,54,Influenza,112,82,113,34.4,Low
+26,2025,January,Winter,Urban,Thane,24,9,55,64,29,25800,77,Viral Fever,161,73,159,27.8,Low
+27,2025,February,Winter,Rural,Kolhapur,29,3,54,64,23,368,56,Influenza,82,42,67,28.3,Low
+28,2025,February,Winter,Urban,Navi Mumbai,27,15,58,68,16,11024,75,Common Cold,91,50,68,23.7,Low
+29,2025,March,Summer,Rural,Kolhapur,31,14,70,55,42,687,85,Typhoid,61,44,54,35.0,Medium
+30,2025,March,Summer,Urban,Aurangabad,38,17,44,64,33,12176,56,Typhoid,112,57,88,31.1,Low
+31,2025,April,Summer,Rural,Satara,34,17,61,65,39,408,65,Diarrhea,46,23,47,34.3,Low
+32,2025,April,Summer,Urban,Solapur City,39,7,52,82,25,11542,67,Diarrhea,50,25,51,24.6,Low
+33,2025,May,Summer,Rural,Ahmednagar,33,7,49,76,20,447,75,Typhoid,82,44,76,22.1,Low
+34,2025,May,Summer,Urban,Solapur City,39,17,56,63,50,8904,58,Heat-related Illness,83,38,75,38.7,Medium
+35,2025,June,Monsoon,Rural,Ahmednagar,30,250,85,67,87,368,74,Dengue,138,80,122,66.3,High
+36,2025,June,Monsoon,Urban,Thane,27,310,74,82,76,18286,76,Chikungunya,144,78,121,61.7,High
+37,2025,July,Monsoon,Rural,Raigad,30,241,89,79,63,446,76,Chikungunya,97,60,68,55.9,High
+38,2025,July,Monsoon,Urban,Navi Mumbai,26,310,90,69,75,23236,69,Diarrhea,180,130,176,66.8,High
+39,2025,August,Monsoon,Rural,Solapur,30,133,81,60,87,898,71,Chikungunya,102,71,77,60.6,High
+40,2025,August,Monsoon,Urban,Mumbai,26,333,74,73,84,21580,75,Diarrhea,172,98,129,67.3,High
+41,2025,September,Monsoon,Rural,Nashik,31,144,85,84,69,430,83,Malaria,72,35,54,50.1,Medium
+42,2025,September,Monsoon,Urban,Nashik City,30,252,86,72,87,21983,81,Malaria,241,171,207,64.8,High
+43,2025,October,Monsoon,Rural,Sangli,31,231,88,72,86,891,65,Dengue,188,101,149,66.0,High
+44,2025,October,Monsoon,Urban,Aurangabad,29,131,76,77,64,15577,67,Malaria,104,60,85,49.7,Medium
+45,2025,November,Winter,Rural,Palghar,25,1,56,79,28,648,51,Common Cold,109,59,91,28.8,Low
+46,2025,November,Winter,Urban,Solapur City,27,23,73,70,32,27767,62,Influenza,101,60,84,33.7,Low
+47,2025,December,Winter,Rural,Raigad,30,5,64,56,19,887,84,Viral Fever,105,68,77,25.5,Low
+48,2025,December,Winter,Urban,Solapur City,21,14,55,65,16,16524,67,Influenza,90,50,91,24.9,Low
+49,2026,January,Winter,Rural,Kolhapur,25,8,52,58,30,269,84,Common Cold,95,45,98,27.5,Low
+50,2026,January,Winter,Urban,Mumbai,19,7,56,59,15,12993,62,Viral Fever,125,77,97,25.9,Low
+51,2026,February,Winter,Rural,Kolhapur,24,5,69,74,34,367,60,Viral Fever,39,28,35,32.4,Low
+52,2026,February,Winter,Urban,Solapur City,25,22,56,81,17,27401,77,Common Cold,151,100,122,21.9,Low
+53,2026,March,Summer,Rural,Satara,38,1,57,59,37,688,73,Heat-related Illness,111,50,94,31.8,Low
+54,2026,March,Summer,Urban,Nashik City,30,13,58,59,40,23064,77,Typhoid,138,84,128,33.0,Low
+55,2026,April,Summer,Rural,Palghar,36,13,52,72,30,501,55,Typhoid,109,64,100,30.0,Low
+56,2026,April,Summer,Urban,Solapur City,34,0,66,70,47,18650,60,Diarrhea,99,52,79,36.9,Medium
+57,2026,May,Summer,Rural,Kolhapur,37,0,68,70,50,445,55,Diarrhea,97,66,91,39.0,Medium
+58,2026,May,Summer,Urban,Nashik City,36,0,40,77,29,15261,67,Diarrhea,97,61,84,24.5,Low
+59,2026,June,Monsoon,Rural,Ahmednagar,28,259,83,71,84,527,69,Dengue,133,68,99,65.6,High
+60,2026,June,Monsoon,Urban,Nagpur,26,200,87,71,72,27319,79,Chikungunya,235,164,189,57.2,High
+61,2026,July,Monsoon,Rural,Ahmednagar,26,244,72,57,89,379,67,Chikungunya,80,59,74,67.3,High
+62,2026,July,Monsoon,Urban,Nashik City,25,96,90,69,73,23381,70,Malaria,144,76,144,53.7,Medium
+63,2026,August,Monsoon,Rural,Satara,31,123,84,64,86,325,53,Chikungunya,74,55,55,62.2,High
+64,2026,August,Monsoon,Urban,Solapur City,29,205,88,64,79,22762,69,Diarrhea,247,153,178,62.6,High
+65,2026,September,Monsoon,Rural,Satara,31,196,78,70,71,333,60,Dengue,87,39,75,58.2,High
+66,2026,September,Monsoon,Urban,Nashik City,27,106,79,82,73,17264,77,Dengue,193,100,153,49.6,Medium
+67,2026,October,Monsoon,Rural,Sangli,28,148,89,64,69,402,67,Dengue,56,39,51,56.3,High
+68,2026,October,Monsoon,Urban,Navi Mumbai,28,153,86,71,74,21189,63,Diarrhea,220,104,157,57.4,High
+69,2026,November,Winter,Rural,Raigad,30,10,69,69,23,276,55,Viral Fever,50,27,36,30.4,Low
+70,2026,November,Winter,Urban,Nagpur,26,16,70,73,29,17114,60,Viral Fever,149,89,109,31.6,Low
+71,2026,December,Winter,Rural,Ahmednagar,25,10,60,76,36,357,60,Viral Fever,103,55,106,31.8,Low
+72,2026,December,Winter,Urban,Mumbai,26,2,60,79,23,18593,58,Viral Fever,139,104,129,26.6,Low
